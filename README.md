@@ -2,9 +2,9 @@
 
 ### Screenshot
 
-![Run Flutter app in Debug mode](/screenshots/flutter-debug-dev-tools.jpg)
+![Preview Run Flutter app in Debug mode](/screenshots/flutter-debug-dev-tools.jpg)
 
-![Flutter Widget Tree in Dev Tools](/screenshots/flutter-widget-tree-devtools.jpg)
+![Preview Flutter Widget Tree in Dev Tools](/screenshots/flutter-widget-tree-devtools.jpg)
 
 
 ### Tutorial
