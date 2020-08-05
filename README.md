@@ -1,11 +1,12 @@
 ### Flutter E-commerce App Using Provider State Management
 
-### Screenshot
+### Flutter app in Debug mode
 
 ![Preview Run Flutter app in Debug mode](/screenshots/flutter-debug-dev-tools.jpg)
 
-![Preview Flutter Widget Tree in Dev Tools](/screenshots/flutter-widget-tree-devtools.jpg)
+### Flutter Widget Tree
 
+![Preview Flutter Widget Tree in Dev Tools](/screenshots/flutter-widget-tree-devtools.jpg)
 
 ### Tutorial
 
